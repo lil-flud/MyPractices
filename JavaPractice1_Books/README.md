@@ -10,3 +10,12 @@ EXAMPLE:
 [S]orcerer's Stone, [C]hamber of Secrets, [P]risoner of Azkaban, [G]oblet of Fire: G  
 [R]ead a book, [V]iew books you've read: v  
 [The Inferno, Goblet of Fire]
+
+If you want a little extra challenge add the ability to add new books through inputs
+and still be able to have them show up in the read and view sections like:  
+[R]ead a book, [V]iew books you've read, [A]dd new book: A  
+Title: New Book  
+[R]ead a book, [V]iew books you've read, [A]dd new book: v
+[H]arry Potter, [D]on Quixote, [T]he Inferno, [P]aradise Lost, [N]ew Book: n  
+[R]ead a book, [V]iew books you've read: V  
+[New Book]
